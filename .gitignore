@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+venv/
+
+# IDE files and Python cache
+.idea/
+__pycache__/
+*.py[cod]
+
+# Database
+db.sqlite3
+
+# Django static files
+/static/
+/media/
+
+# Logs
+*.log
